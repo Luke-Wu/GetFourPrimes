@@ -1,0 +1,6 @@
+C:\E Driver\Luke Projects\CalculateConsole\CalculateConsole\bin\Debug\CalculateConsole.exe.config
+C:\E Driver\Luke Projects\CalculateConsole\CalculateConsole\bin\Debug\CalculateConsole.exe
+C:\E Driver\Luke Projects\CalculateConsole\CalculateConsole\bin\Debug\CalculateConsole.pdb
+C:\E Driver\Luke Projects\CalculateConsole\CalculateConsole\obj\Debug\CalculateConsole.csproj.CoreCompileInputs.cache
+C:\E Driver\Luke Projects\CalculateConsole\CalculateConsole\obj\Debug\CalculateConsole.exe
+C:\E Driver\Luke Projects\CalculateConsole\CalculateConsole\obj\Debug\CalculateConsole.pdb
