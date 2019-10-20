@@ -4,3 +4,10 @@ C:\E Driver\Luke Projects\CalculateConsole\CalculateConsole\bin\Debug\CalculateC
 C:\E Driver\Luke Projects\CalculateConsole\CalculateConsole\obj\Debug\CalculateConsole.csproj.CoreCompileInputs.cache
 C:\E Driver\Luke Projects\CalculateConsole\CalculateConsole\obj\Debug\CalculateConsole.exe
 C:\E Driver\Luke Projects\CalculateConsole\CalculateConsole\obj\Debug\CalculateConsole.pdb
+C:\E Driver\Luke Projects\CalculateConsole\GetFourPrimes\CalculateConsole\bin\Debug\CalculateConsole.exe.config
+C:\E Driver\Luke Projects\CalculateConsole\GetFourPrimes\CalculateConsole\bin\Debug\CalculateConsole.exe
+C:\E Driver\Luke Projects\CalculateConsole\GetFourPrimes\CalculateConsole\bin\Debug\CalculateConsole.pdb
+C:\E Driver\Luke Projects\CalculateConsole\GetFourPrimes\CalculateConsole\obj\Debug\CalculateConsole.csprojAssemblyReference.cache
+C:\E Driver\Luke Projects\CalculateConsole\GetFourPrimes\CalculateConsole\obj\Debug\CalculateConsole.csproj.CoreCompileInputs.cache
+C:\E Driver\Luke Projects\CalculateConsole\GetFourPrimes\CalculateConsole\obj\Debug\CalculateConsole.exe
+C:\E Driver\Luke Projects\CalculateConsole\GetFourPrimes\CalculateConsole\obj\Debug\CalculateConsole.pdb
